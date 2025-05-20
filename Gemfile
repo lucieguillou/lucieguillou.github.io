@@ -39,3 +39,14 @@ gem "kramdown-parser-gfm"
 # Lock `http_parser.rb` gem to `v0.6.x` on JRuby builds since newer versions of the gem
 # do not have a Java counterpart.
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
+
+
+
+# gem "json", "2.0.2"
+gem "minimal-mistakes-jekyll"
+group :jekyll_plugins do
+  gem 'jekyll-algolia', '~> 1.0'
+end
+
+gem "wdm", "~> 0.1.0" if Gem.win_platform?
+gem "webrick"
