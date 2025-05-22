@@ -38,10 +38,12 @@ h6 {
 h1 {
   margin-top: 0;
   font-size: $h-size-1;
+  color: #941B0C;
 }
 
 h2 {
   font-size: $h-size-2;
+  color: #BC3908;
 }
 
 h3 {
@@ -135,12 +137,14 @@ a {
   &:visited {
     color: $link-color-visited;
   }
-
+  text-decoration: none;
   &:hover {
     color: $link-color-hover;
     outline: 0;
+    text-decoration: underline;
   }
 }
+
 
 /* buttons */
 

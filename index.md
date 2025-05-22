@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 ---
-## News
-- I am in the PC of [ICE 2025](http://www.discotec.org/2025/satellite/ice.html).
+[comment]: <> ## News
+[comment]: <>  # - I am in the PC of [ICE 2025](http://www.discotec.org/2025/satellite/ice.html).
 
----
+[comment]: <> ---
