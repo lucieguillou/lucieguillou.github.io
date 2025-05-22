@@ -1,6 +1,6 @@
 main:
-  - title: "About"
-    url: /about/
+  - title: "Research Activities"
+    url: /research-activities/
   - title: "Publications"
     url: /publications/
   - title: "Teaching (in french)"

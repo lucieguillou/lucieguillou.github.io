@@ -5,3 +5,9 @@
 layout: home
 author_profile: true
 ---
+
+---
+## News
+- I am in the PC of [ICE 2025](http://www.discotec.org/2025/satellite/ice.html).
+
+---
