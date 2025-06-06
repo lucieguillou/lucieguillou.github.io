@@ -10,6 +10,11 @@ html {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.em {
+  text-emphasis-color: #B03A2E;
+  text-emphasis-style: "*";
+}
+
 body {
   margin: 0;
   padding: 0;
@@ -38,12 +43,12 @@ h6 {
 h1 {
   margin-top: 0;
   font-size: $h-size-1;
-  color: #941B0C;
+  color: black;
 }
 
 h2 {
   font-size: $h-size-2;
-  color: #BC3908;
+  color: black;
 }
 
 h3 {
