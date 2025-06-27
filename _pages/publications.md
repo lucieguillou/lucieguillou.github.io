@@ -13,8 +13,11 @@ Davide Frey, LG, Michel Raynal, François Taïani. Theoretical Computer Science 
 
 ## Conferences
 
+1. <span style="color:#40826D     ">**Wait-Only Broadcast Protocols are Easier to Verify.**</span> \
+LG, Arnaud Sangnier, Nathalie Sznajder. Appeared to appear at MFCS 2025.
+
 1. <span style="color:#40826D     ">**Phase-Bounded Broadcast Networks over Topologies of Communication.**</span> \
-LG, Arnaud Sangnier, Nathalie Sznajder. Appeared in CONCUR 2024. \
+LG, Arnaud Sangnier, Nathalie Sznajder. CONCUR 2024. \
 [[arxiv](https://arxiv.org/pdf/2406.15202)]
 
 1. <span style="color:#40826D    ">**Safety Verification of Wait-Only Non-Blocking Broadcast Protocols.**</span>\
