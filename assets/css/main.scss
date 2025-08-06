@@ -27,6 +27,21 @@ width: auto;
 height: auto;
 }
 
+@media (min-width: 80em) {
+  .sidebar__right {
+      width: 300px;
+      margin-right: -300px;
+      float: right;
+      position: sticky;
+  }
+  .sidebar__left {
+      width: 300px;
+      margin-right: -300px;
+      float: right;
+      position: sticky;
+  }
+}
+
 img {
 min-width: 80px;
 max-width: 175px; //original: 110px
@@ -38,3 +53,4 @@ border-radius: 50%;
 }
 }
 }
+
