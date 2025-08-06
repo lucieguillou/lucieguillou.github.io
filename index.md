@@ -7,7 +7,8 @@ author_profile: true
 ---
 
 ---
-[comment]: <> ## News
-[comment]: <>  # - I am in the PC of [ICE 2025](http://www.discotec.org/2025/satellite/ice.html).
+# News
+  - I am co organising with [Corto Mascle](https://corto-mascle.github.io) a working group at the [HCRW](https://highlights-conference.org/2025/hcrw) on Unboundedness and concurrency.
+  - I will be defending my PhD thesis on september 30th! More info [here](/defense/).
 
-[comment]: <> ---
+---
