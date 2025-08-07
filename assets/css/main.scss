@@ -18,8 +18,8 @@ $link-color: #239B56      ;
 .author__avatar {
 display: table-cell;
 vertical-align: top;
-width: 80px; //original: 36px
-height: 80px; //original: 36px
+width: 90px; //original: 36px
+height: 90px; //original: 36px
 
 @include breakpoint($large) {
 display: block;
@@ -28,7 +28,7 @@ height: auto;
 }
 
 img {
-max-width: 175px; //original: 110px
+max-width: 195px; //original: 110px
 border-radius: 50%;
 
 @include breakpoint($large) {
