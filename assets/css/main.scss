@@ -13,28 +13,13 @@ $link-color: #239B56      ;
 @import "minimal-mistakes"; // main partials
 
 
-@media(min-width: 80em) {
-
-.author__avatar {
-  display: table-cell;
-  vertical-align: top;
-  width: 90px; // taille de l'avatar
-
-  @include breakpoint($large) {
-    display: block;
-    width: auto;
-  }
-
-  img {
-    width: 90px;        // largeur fixe
-    height: auto;       // conserve le ratio original
-    max-width: 195px;   // limite pour les écrans plus larges
-    border-radius: 50%;
-    image-rendering: -webkit-optimize-contrast; // améliore le rendu Safari
-
-    @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid $border-color;
-    }
-  }
+/* Avatar agrandi mais sans casser le layout */
+.author__avatar img {
+  width: 230px;         /* taille raisonnable */
+  height: auto;
+  max-width: 100%;      /* ne dépasse jamais le conteneur */
+  border-radius: 50%;
+  image-rendering: -webkit-optimize-contrast;
+  -webkit-transform: translateZ(0);
+  transform: translateZ(0);
 }
