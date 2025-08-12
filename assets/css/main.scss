@@ -24,15 +24,20 @@ $link-color: #239B56      ;
   transform: translateZ(0);
 }
 
+/* Forcer la taille de l'avatar et de son conteneur sur mobile */
 @media (max-width: 767px) {
   .author__avatar {
-    width: 100% !important;
-    text-align: center; /* pour bien centrer l'image */
+    width: 140px !important;
+    height: 140px !important;
+    display: block;       /* éviter le layout table-cell sur mobile */
+    margin: 0 auto;       /* centrer */
   }
   .author__avatar img {
-    width: 140px;
-    max-width: 140px;
-    height: auto;
+    width: 100% !important;
+    height: auto !important;
+    max-width: none !important;
+    border-radius: 50%;
+    image-rendering: -webkit-optimize-contrast;
   }
 }
 
