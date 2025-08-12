@@ -23,3 +23,11 @@ $link-color: #239B56      ;
   -webkit-transform: translateZ(0);
   transform: translateZ(0);
 }
+
+/* Agrandir l'avatar sur smartphone */
+@media (max-width: 767px) {
+  .author__avatar img {
+    width: 120px;   /* plus grand sur mobile */
+    height: auto;
+  }
+}
