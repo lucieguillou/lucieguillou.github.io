@@ -24,10 +24,11 @@ $link-color: #239B56      ;
   transform: translateZ(0);
 }
 
-/* Agrandir l'avatar sur smartphone */
+/* Agrandir vraiment l'avatar sur smartphone */
 @media (max-width: 767px) {
   .author__avatar img {
-    width: 120px;   /* plus grand sur mobile */
-    height: auto;
+    width: 140px !important;  /* on écrase la valeur du thème */
+    max-width: none !important;
+    height: auto !important;
   }
 }
