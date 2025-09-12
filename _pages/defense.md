@@ -9,7 +9,7 @@ My PhD defense will take place on september 30th 2025, 14:00, in Amphi Turing, i
 ## The thesis 
 The title of my thesis is
 <p style="text-align:center;"> <b> Wait or Act: Parameterized Verification with Wait-Only Protocols and Non-Blocking Communication.</b> </p>
-<!-- The latest version of the manuscript can be found here. -->
+The latest version of the manuscript can be found [here](/assets/files/th-main.pdf).
 
 ## About the defense
 I will defend my thesis in front of a jury composed of:
