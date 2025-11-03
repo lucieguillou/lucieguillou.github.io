@@ -4,7 +4,7 @@ permalink: /defense/
 layout: publications
 ---
 
-My PhD defense will take place on september 30th 2025, 14:00, in Amphi Turing, in [Sophie Germain building](https://u-paris.fr/batiment-sophie-germain/), 8 place Aurélie Nemours, 75013 Paris.
+My PhD defense took place on september 30th 2025, 14:00, in Amphi Turing, in [Sophie Germain building](https://u-paris.fr/batiment-sophie-germain/), 8 place Aurélie Nemours, 75013 Paris.
 
 ## The thesis 
 The title of my thesis is

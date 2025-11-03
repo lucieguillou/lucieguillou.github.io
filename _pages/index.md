@@ -6,7 +6,9 @@ author-profile: true
 ---
 
 # About me 
-I am a PhD student at the Institut de Recherche en Informatique Fondamentale (IRIF), since october 2022, under the supervision of Arnaud Sangnier (DIBRIS) and Nathalie Sznajder (LIP6). I am currently involved in the ANR project PaVeDyS.
+I am a postdoctoral researcher at the Max Planck Institute for Software Systems (MPI SWS) advised by Rupak Majumdar. 
+
+Between october 2022 and september 2025, I was a PhD student at the Institut de Recherche en Informatique Fondamentale (IRIF), under the supervision of Arnaud Sangnier (DIBRIS) and Nathalie Sznajder (LIP6). I successfully defended my PhD on september 30th 2025.
 
 My research field is Verification of parameterized distributed systems.
 

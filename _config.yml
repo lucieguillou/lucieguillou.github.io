@@ -56,9 +56,9 @@ plugins:
 author:
   name   : "Lucie Guillou"
   avatar : "/assets/images/photo.jpg"
-  bio    : "PhD student at IRIF on verification of distributed systems."
-  email : guillou [at] irif.fr
-  location : IRIF, Office 4057
+  bio    : "Postdoctoral researcher at MPI-SWS, Kaiserslautern."
+  email : lguillou [at] mpi-sws.org
+  location : MPI-SWS, 206
 
 
 defaults:

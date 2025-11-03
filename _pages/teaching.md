@@ -1,10 +1,13 @@
 ---
-title: "Teaching (in french)"
+title: "Teaching"
 permalink: /teaching/
 layout: publications
 ---
 
-Durant mon doctorat, j'ai donné les cours suivants à l'Université Paris Cité. 
+This year, I am a teaching assistant for the course of [Software Verification](https://rupak.pages.mpi-sws.org/sv2025/) offered in the winter semester of 2025 at RPTU Kaiserslautern, taught by [Prof. Rupak Majumdar](https://people.mpi-sws.org/~rupak/) for master students.
+
+
+During my PhD, I have been a teaching assistant for the following courses at Université Paris Cité:
 
 -  <span style="color:#40826D    ">*Initiation à la programmation Java*</span> en L1 Informatique. TD en 2024/2025
 -  <span style="color:#40826D    ">*Initiation à la programmation Python*</span> en L1 Mathématiques. TP en 2023/2024 et en 2024/2025
