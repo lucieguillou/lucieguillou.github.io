@@ -4,7 +4,7 @@ permalink: /teaching/
 layout: publications
 ---
 
-This year, I am a teaching assistant for the course of [Software Verification](https://rupak.pages.mpi-sws.org/sv2025/) offered in the winter semester of 2025 at RPTU Kaiserslautern, taught by [Prof. Rupak Majumdar](https://people.mpi-sws.org/~rupak/) for master students.
+This year, I am a teaching assistant for the [Software Verification](https://rupak.pages.mpi-sws.org/sv2025/) course offered in the winter semester of 2025 at RPTU Kaiserslautern, taught by [Prof. Rupak Majumdar](https://people.mpi-sws.org/~rupak/) for master students.
 
 
 During my PhD, I have been a teaching assistant for the following courses at Université Paris Cité:

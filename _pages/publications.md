@@ -39,3 +39,9 @@ A.R. Balasubramanian, LG, Chana Weil-Kennedy. FoSSaCS 2022.\
 1. <span style="color:#40826D  ">**Consensus-Free Ledgers When Operations of Distinct Processes are Commutative.**</span>\
 Davide Frey, LG, Michel Raynal, François Taïani. PaCT 2021.\
 [[hal](https://inria.hal.science/hal-03346756/document)]
+
+
+## Thesis
+<span style="color:#40826D  ">**Wait or Act: Parameterized Verification with Wait-Only Protocols and Non-Blocking Communication.**</span> LG, Doctoral thesis defended the 30.09.2025. Latest version of the manuscript [here](/assets/files/th-main.pdf).
+
+

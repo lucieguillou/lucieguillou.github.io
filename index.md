@@ -8,7 +8,7 @@ author_profile: true
 
 ---
 # News
-  - I am co organising with [Corto Mascle](https://corto-mascle.github.io) a working group at the [HCRW](https://highlights-conference.org/2025/hcrw) on Unboundedness and concurrency.
-  - I will be defending my PhD thesis on september 30th! More info [here](/defense/).
+  - [sept 25] I am co organising with [Corto Mascle](https://corto-mascle.github.io) a working group at the [HCRW](https://highlights-conference.org/2025/hcrw) on Unboundedness and concurrency.
+  - [sept 25] I will be defending my PhD thesis on september 30th! More info [here](/defense/).
 
 ---
