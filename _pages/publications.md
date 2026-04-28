@@ -13,8 +13,11 @@ Davide Frey, LG, Michel Raynal, François Taïani. Theoretical Computer Science 
 
 ## Conferences
 
+1. <span style="color:#40826D     ">**Population Protocols over Ordered Agents.**</span> \
+Michael Blondin, Michaël Cadilhac, Benjamin Courchesne, LG, Corto Mascle, Isa Vialard. Accepted to appear at ICALP 2026.
+
 1. <span style="color:#40826D     ">**Wait-Only Broadcast Protocols are Easier to Verify.**</span> \
-LG, Arnaud Sangnier, Nathalie Sznajder. Accepted to appear at MFCS 2025.
+LG, Arnaud Sangnier, Nathalie Sznajder. MFCS 2025.
 
 1. <span style="color:#40826D     ">**Phase-Bounded Broadcast Networks over Topologies of Communication.**</span> \
 LG, Arnaud Sangnier, Nathalie Sznajder. CONCUR 2024. \
