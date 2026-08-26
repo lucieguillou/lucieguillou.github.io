@@ -8,8 +8,8 @@ layout: publications
 
 
 ## Others
-- I have been in the PC of ICE 2025.
-- I have been a subreviewer for: Petri Nets 2025, Petri Nets 2023, RP 2023. 
+- I have been in the PC of VMCAI 2027, YR-CONCUR 2026 and ICE 2025.
+- I have been a subreviewer for: DISC 2026, CONCUR 2026, Petri Nets 2026, Petri Nets 2025, Petri Nets 2023, RP 2023. 
 - I have been a volunteer for the organization of: ICALP 2022, ETAPS 2023.
 - In 2023 and 2024 I was a co-organiser of the Non-permanents seminar of IRIF.
 - Between 2023 and 2025, I was a member of the equality comission of IRIF.

@@ -56,9 +56,9 @@ plugins:
 author:
   name   : "Lucie Guillou"
   avatar : "/assets/images/photo.jpg"
-  bio    : "Postdoctoral researcher at MPI-SWS, Kaiserslautern."
-  email : lguillou [at] mpi-sws.org
-  location : MPI-SWS, 206
+  bio    : "Assistant Professor at IRIF, Université Paris Cité"
+  email : guillou [at] irif.fr
+  location : IRIF
 
 
 defaults:
